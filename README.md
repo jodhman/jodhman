@@ -1,7 +1,7 @@
 Hi 👋 My name is Manjodh!
 =========================
 
-Frontend Engineer
+Javascript Engineer
 -----------------
 
 * 🌍  I'm based in Stockholm, Sweden
